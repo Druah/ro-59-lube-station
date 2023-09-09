@@ -3,4 +3,4 @@
 
 A 3D printable lube station that holds Cherry MX stems upright using Cherry MX springs. Useful when lubing switches with dry-lubes like RO-59tmKT that require curing.  
 
-***Use springs at least 14-15 mm long.***
+***10x10, holds 100 stems and springs. Use springs at least 14-15 mm long.***
